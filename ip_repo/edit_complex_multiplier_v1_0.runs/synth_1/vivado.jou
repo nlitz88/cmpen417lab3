@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Thu Feb 16 21:59:19 2023
+# Process ID: 23872
+# Current directory: C:/Users/nlitz88/OneDrive - The Pennsylvania State University/Spring 2023/CMPEN 417/Labs/Lab 3/cmpen417lab3/ip_repo/edit_complex_multiplier_v1_0.runs/synth_1
+# Command line: vivado.exe -log complex_multiplier_v1_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source complex_multiplier_v1_0.tcl
+# Log file: C:/Users/nlitz88/OneDrive - The Pennsylvania State University/Spring 2023/CMPEN 417/Labs/Lab 3/cmpen417lab3/ip_repo/edit_complex_multiplier_v1_0.runs/synth_1/complex_multiplier_v1_0.vds
+# Journal file: C:/Users/nlitz88/OneDrive - The Pennsylvania State University/Spring 2023/CMPEN 417/Labs/Lab 3/cmpen417lab3/ip_repo/edit_complex_multiplier_v1_0.runs/synth_1\vivado.jou
+# Running On: DESKTOP-3QMA31G, OS: Windows, CPU Frequency: 1896 MHz, CPU Physical cores: 4, Host memory: 16947 MB
+#-----------------------------------------------------------
+source complex_multiplier_v1_0.tcl -notrace
