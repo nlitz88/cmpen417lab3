@@ -1,0 +1,9 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:lab3_part3 Debug,org.eclipse.launchbar.core.descriptorType.default\:Debugger_lab3_part3-GDB,org.eclipse.launchbar.core.descriptorType.default\:SystemDebugger_lab3_part3_system
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Debugger_lab3_part3-GDB/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Debugger_lab3_part3-GDB/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:SystemDebugger_lab3_part3_system/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:lab3_part3\ Debug/activeLaunchMode=run

@@ -1,0 +1,9 @@
+22:38:02 **** Build of configuration Debug for project lab3_part3_system ****
+make all 
+Generating bif file for the system project
+generate_system_bif.bat 63337 C:/Users/nlitz88/workspace/zed/export/zed/zed.xpfm standalone_ps7_cortexa9_0 C:/Users/nlitz88/workspace/lab3_part3_system/Debug/system.bif
+sdcard_gen --xpfm C:/Users/nlitz88/workspace/zed/export/zed/zed.xpfm --sys_config zed --bif C:/Users/nlitz88/workspace/lab3_part3_system/Debug/system.bif --no_bitstream --elf C:/Users/nlitz88/workspace/lab3_part3/Debug/lab3_part3.elf,ps7_cortexa9_0
+Running C:/Xilinx/Vitis/2022.2/bin/bootgen  -image C:/Users/nlitz88/workspace/lab3_part3_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
+
+22:38:14 Build Finished (took 11s.300ms)
+

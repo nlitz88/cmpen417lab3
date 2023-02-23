@@ -1,0 +1,18 @@
+00:14:56 **** Incremental Build of configuration Debug for project lab3_part3_design1 ****
+make all 
+C:/Xilinx/Vitis/2022.2/gnuwin/bin/make --no-print-directory pre-build
+a9-linaro-pre-build-step
+' '
+C:/Xilinx/Vitis/2022.2/gnuwin/bin/make --no-print-directory main-build
+'Building file: ../src/lab3_design1.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/lab3_design1.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -IC:/Users/nlitz88/workspace/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/standalone_ps7_cortexa9_0/bspinclude/include -MMD -MP -MF"src/lab3_design1.d" -MT"src/lab3_design1.o" -o "src/lab3_design1.o" "../src/lab3_design1.c"
+../src/lab3_design1.c:2:10: fatal error: xil_io.h: No such file or directory
+    2 | #include <xil_io.h>
+      |          ^~~~~~~~~~
+compilation terminated.
+make[1]: *** [src/subdir.mk:23: src/lab3_design1.o] Error 1
+make: *** [makefile:34: all] Error 2
+
+00:14:56 Build Finished (took 450ms)
+
